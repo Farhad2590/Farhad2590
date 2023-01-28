@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhad Hossen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img text-align: center; alt ="Coding" width="400" src = "https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76110298f008b0eae2e28e20016c457fa8950e4d61d7&rid=giphy.gif&ct=g">
+<h3 align="center">Competitive Programmer || Front-End Developer</h3>
+<p>I am an undergraduate student at Port City International Uinversity, Department of Computer Science and Engineering.As a fresher computer science student, I am highly interested in learning about new technologies and putting them to use to tackle difficult challenges. I have a strong understanding of programming concepts and languages such as C, C++, and Python.I am also a front end web developer who is obsessed with creating error-free websites.In addition to my technical skills, I am a quick learner.</p>
+<img align: right; alt ="Coding" width="400" src = "https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76110298f008b0eae2e28e20016c457fa8950e4d61d7&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhad2590&label=Profile%20views&color=0e75b6&style=flat" alt="farhad2590" /> </p>
 
