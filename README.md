@@ -23,19 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhad2590&show_icons=true&locale=en" alt="farhad2590" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad2590&" alt="farhad2590" /></p>
-<h1 align="center">Hi 👋, I'm Farhad Hossen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align = "crntr" alt ="Coding" width="400" src = "https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76110298f008b0eae2e28e20016c457fa8950e4d61d7&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhad2590&label=Profile%20views&color=0e75b6&style=flat" alt="farhad2590" /> </p>
-
-- 🌱 I’m currently learning **Django**
-
-- 📫 How to reach me **farhadhossen2590gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farhad hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhad hossen" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/farhadhossen2590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farhadhossen2590" height="30" width="40" /></a>
 </p>
 
