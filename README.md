@@ -32,6 +32,7 @@
   <code><img title="Node" height="40" src="Node.png"></code>
   <code><img title="Express" height="36" src="Express.png"></code>
   <code><img title="Tailwind" height="28" src="Tailwind.png"></code>
+    <code><img title="Mongodb" height="28" src="mongodb.png"></code>
 </p>
 <p>
   <img src="/Guithub.gif" width="36" />
