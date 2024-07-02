@@ -1,6 +1,6 @@
-[![Header](https://github.com/Farhad2590/Farhad2590/blob/main/Github_banner.png "Header")]
+![Header](https://github.com/Farhad2590/Farhad2590/blob/main/Github_banner.png "Header")
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Wellcome+to+my+profile;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Wellcome+to+my+github;" />
 </h1>
 
 <h3 align="center">Competitive Programmer || Front-End Developer</h3>
