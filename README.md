@@ -16,16 +16,22 @@
 <hr>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="c.svg"></code>
-  <code><img title="C++" height="25" src="cpp.svg"></code>
-  <code><img title="HTML5" height="25" src="JavaScript.png"></code>
+  <code><img title="C" height="40" src="c.svg"></code>
+  <code><img title="C++" height="40" src="cpp.svg"></code>
+  <code><img title="Javascript" height="40" src="JavaScript.png"></code>
 </p>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="c.svg"></code>
-  <code><img title="C++" height="25" src="cpp.svg"></code>
-  <code><img title="HTML5" height="25" src="html5.svg"></code>
-  <code><img title="CSS" height="25" src="css.svg"></code>
+  <code><img title="Html" height="40" src="html5.svg"></code>
+  <code><img title="Css" height="40" src="css.svg"></code>
+  <code><img title="React" height="40" src="React.png"></code>
+  <code><img title="Firebase" height="40" src="Firebase.png"></code>
+</p>
+<br>
+<p align="center">
+  <code><img title="Node" height="40" src="Node.png"></code>
+  <code><img title="Express" height="40" src="Express.png"></code>
+  <code><img title="Tailwind" height="40" src="Tailwind.png"></code>
 </p>
 <p>
   <img src="/Guithub.gif" width="36" />
