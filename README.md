@@ -2,7 +2,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Wellcome+to+my+github;" />
 </h1>
-<img src="https://github.com/Farhad2590/Farhad2590/blob/2a58b7c62946c5407b890832791e32a67a7053c3/Developer.gif" width="45" /> About Me:
+<p>
+  <img src="https://github.com/Farhad2590/Farhad2590/blob/2a58b7c62946c5407b890832791e32a67a7053c3/Developer.gif" width="45" />
+  <strong>About Me:</strong>
+</p>
 <p>I am an undergraduate student at Port City International Uinversity,Department of Computer Science and Engineering.I count myself as a hard-working Person. As an Undergraduate Student in Computer Science, I am a highly motivated and ambitious software engineer with a strong foundation in programming concepts and methodologies. I am proficient in multiple programming languages including Java, Python, and C++. I have experience in developing and maintaining software systems and am comfortable with front-end development. I am passionate about creating high-quality, efficient, and user-friendly software, and I am eager to apply my skills to real-world projects. I am a quick learner and always keen to learn new technologies and programming languages.</p>
 <img align: right; alt ="Coding" width="400" src = "https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76110298f008b0eae2e28e20016c457fa8950e4d61d7&rid=giphy.gif&ct=g">
 
