@@ -22,7 +22,7 @@
   <code><img title="CSS" height="25" src="css.svg"></code>
 </p>
 <p>
-  <img src="/Guithub.gif" width="45" />
+  <img src="/Guithub.gif" width="36" />
   <strong style="font-size: 40px;">Github Stats</strong>
 </p>
 <hr>
