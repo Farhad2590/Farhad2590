@@ -21,8 +21,10 @@
   <code><img title="HTML5" height="25" src="html5.svg"></code>
   <code><img title="CSS" height="25" src="css.svg"></code>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhad2590&show_icons=true&locale=en&layout=compact" alt="farhad2590" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhad2590&show_icons=true&locale=en" alt="farhad2590" /></p>
+<p>
+  <img src="https://github.com/Farhad2590/Farhad2590/blob/2a58b7c62946c5407b890832791e32a67a7053c3/Developer.gif" width="45" />
+  <strong style="font-size: 40px;">Github Stats</strong>
+</p>
+<hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad2590&" alt="farhad2590" /></p>
 
