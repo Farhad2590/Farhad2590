@@ -22,13 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhad2590&show_icons=true&locale=en" alt="farhad2590" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad2590&" alt="farhad2590" /></p>
 
-<a href="https://codeforces.com/profile/farhadhossen2590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farhadhossen2590" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhad2590&show_icons=true&locale=en&layout=compact" alt="farhad2590" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhad2590&show_icons=true&locale=en" alt="farhad2590" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad2590&" alt="farhad2590" /></p>
