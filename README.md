@@ -6,6 +6,7 @@
   <img src="https://github.com/Farhad2590/Farhad2590/blob/2a58b7c62946c5407b890832791e32a67a7053c3/Developer.gif" width="45" />
   <strong style="font-size: 40px;">About Me:</strong>
 </p>
+<hr>
 <p>Hi, I'm Farhad Hossen, a web developer and a graduate in Computer Science and Engineering. I have experience in MERN stack front-end development. I am passionate about creating efficient and user-friendly web applications. I am always eager to learn new technologies, enhance my skills, and take on new challenges. My goal is to contribute to innovative projects and collaborate with other developers to build high-quality software solutions.</p>
 
 <p>
