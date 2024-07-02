@@ -26,5 +26,5 @@
   <strong style="font-size: 40px;">Github Stats</strong>
 </p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad2590&" alt="farhad2590" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad2590&" alt="farhad2590" /></p>
 
