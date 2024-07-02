@@ -18,6 +18,12 @@
 <p align="center">
   <code><img title="C" height="25" src="c.svg"></code>
   <code><img title="C++" height="25" src="cpp.svg"></code>
+  <code><img title="HTML5" height="25" src="JavaScript.png"></code>
+</p>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="c.svg"></code>
+  <code><img title="C++" height="25" src="cpp.svg"></code>
   <code><img title="HTML5" height="25" src="html5.svg"></code>
   <code><img title="CSS" height="25" src="css.svg"></code>
 </p>
