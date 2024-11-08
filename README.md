@@ -39,5 +39,5 @@
   <strong style="font-size: 40px;">Github Stats</strong>
 </p>
 <hr>
-<p align="center">[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Farhad Hossen?cardType=github&theme=graywhite&preferLogin=false)](https://git.io/awesome-stats-card)</p>
+<p align="center">  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=graywhite&preferLogin=false">    <img  alt="Farhad Hossen's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Farhad Hossen?cardType=github&theme=graywhite&preferLogin=false" />  </a></p>
 
