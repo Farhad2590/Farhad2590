@@ -39,5 +39,5 @@
   <strong style="font-size: 40px;">Github Stats</strong>
 </p>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad2590&" alt="farhad2590" /></p>
+<p align="center">[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Farhad Hossen?cardType=github&theme=graywhite&preferLogin=false)](https://git.io/awesome-stats-card)</p>
 
