@@ -39,5 +39,6 @@
   <strong style="font-size: 40px;">Github Stats</strong>
 </p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhad2590&" alt="Farhad2590" /></p>
+
 
